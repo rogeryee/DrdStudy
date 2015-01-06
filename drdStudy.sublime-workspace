@@ -1,0 +1,406 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getNameFunc2"
+			],
+			[
+				"show",
+				"showName"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"app",
+				"appTitle"
+			],
+			[
+				"ti",
+				"appTitle"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/viewmodels/chartiq.js",
+			"settings":
+			{
+				"buffer_size": 5387,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/viewmodels/about/about.js",
+			"settings":
+			{
+				"buffer_size": 427,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 745,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/views/chartiq.html",
+			"settings":
+			{
+				"buffer_size": 662,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/RogerYee/MyWork/yee/drdStudy",
+		"/Users/RogerYee/MyWork/yee/drdStudy/app/views/about",
+		"/Users/RogerYee/MyWork/yee/drdStudy/lib/chart-iq"
+	],
+	"file_history":
+	[
+		"/Users/RogerYee/MyWork/yee/drdStudy/lib/chart-iq/stxKernelOs.js",
+		"/Users/RogerYee/Desktop/temp2.txt",
+		"/Users/RogerYee/MyWork/yee/drdStudy/index.html",
+		"/Users/RogerYee/MyWork/yee/drdStudy/app/viewmodels/shell.js",
+		"/Users/RogerYee/MyWork/yee/drdStudy/app/main.js",
+		"/Users/RogerYee/MyWork/yee/drdStudy/app/views/widgetsample.html",
+		"/Users/RogerYee/MyWork/yee/drdStudy/app/viewmodels/ko/observableSample.js",
+		"/Users/RogerYee/MyWork/yee/drdStudy/app/viewmodels/chartiq.js",
+		"/Users/RogerYee/MyWork/yee/drdStudy/app/views/chartiq.html",
+		"/Users/RogerYee/MyWork/yee/drdStudy/app/widgets/expander/viewmodel.js",
+		"/Users/RogerYee/MyWork/yee/drdStudy/app/widgets/firstwidget/viewmodel.js",
+		"/Users/RogerYee/MyWork/yee/drdStudy/app/widgets/expander/view.html",
+		"/Users/RogerYee/MyWork/yee/drdStudy/app/viewmodels/jstest.js",
+		"/Users/RogerYee/MyWork/yee/drdStudy/app/views/jstest.html",
+		"/Users/RogerYee/MyWork/yee/drdStudy/app/widgets/chartiq/viewmodel.js",
+		"/Users/RogerYee/MyWork/yee/drdStudy/app/widgets/chartiq/view.html",
+		"/Users/RogerYee/Desktop/OptionsPlay.Web/App/widgets/chartIQ/view.html",
+		"/Users/RogerYee/Desktop/OptionsPlay.Web/App/widgets/chartIQ/viewmodel.js",
+		"/Users/RogerYee/Desktop/OptionsPlay.Web/Views/Home/Index.cshtml",
+		"/Users/RogerYee/MyWork/yee/drdStudy/app/viewmodels/settings.js",
+		"/Users/RogerYee/MyWork/yee/drdStudy/app/viewmodels/js/jstest.js",
+		"/Users/RogerYee/MyWork/yee/drdStudy/lib/durandal/js/app.js",
+		"/Users/RogerYee/MyWork/yee/drdStudy/app/views/ko/observableSample.html",
+		"/Users/RogerYee/MyWork/yee/drdStudy/lib/durandal/js/system.js",
+		"/Users/RogerYee/MyWork/yee/drdStudy/README.md",
+		"/Users/RogerYee/MyWork/yee/drdStudy/lib/durandal/js/plugins/router.js",
+		"/Users/RogerYee/MyWork/yee/drdStudy/app/viewmodels/rainier.js",
+		"/Users/RogerYee/MyWork/yee/drdStudy/lib/durandal/js/composition.js",
+		"/Users/RogerYee/MyWork/yee/drdStudy/app/viewmodels/about/about.js",
+		"/Users/RogerYee/MyWork/yee/drdStudy/app/views/about/about.html",
+		"/Users/RogerYee/MyWork/yee/drdStudy/lib/durandal/js/viewLocator.js",
+		"/Users/RogerYee/MyWork/yee/drdStudy/app/rainier.js",
+		"/Users/RogerYee/MyWork/yee/drdStudy/app/rainier.html",
+		"/Users/RogerYee/MyWork/yee/drdStudy/app/shell.html",
+		"/Users/RogerYee/MyWork/yee/drdStudy/app/shell.js",
+		"/Users/RogerYee/MyWork/yee/drdStudy/app/viewModel/shell.js",
+		"/Users/RogerYee/MyWork/yee/drdStudy/app/views/shell.html",
+		"/Users/RogerYee/MyWork/yee/drdStudy/app/viewmodels/home.js",
+		"/Users/RogerYee/MyWork/yee/drdStudy/app/views/home.html",
+		"/Users/RogerYee/MyWork/yee/ngStudy/build/index.html",
+		"/Users/RogerYee/Downloads/酷爱.lrc",
+		"/Users/RogerYee/MyWork/yee/ng-boilerplate/src/index.html",
+		"/Users/RogerYee/MyWork/yee/pr_trunk/build/index.php",
+		"/Users/RogerYee/MyWork/yee/temp.js",
+		"/Users/RogerYee/MyWork/yee/pr_trunk/node_modules/grunt-contrib-uglify/node_modules/uglify-js/bin/uglifyjs",
+		"/Users/RogerYee/Downloads/httpd-vhosts.conf",
+		"/private/etc/apache2/extra/httpd-vhosts.conf",
+		"/private/etc/apache2/httpd.conf",
+		"/Users/RogerYee/MyWork/yee/pr_trunk/bower.json",
+		"/Users/RogerYee/MyWork/yee/ng-boilerplate/package.json",
+		"/Users/RogerYee/MyWork/yee/pr/package.json",
+		"/Users/RogerYee/MyWork/yee/ng-boilerplate/node_modules/karma-firefox-launcher/index.js",
+		"/Users/RogerYee/MyWork/yee/ng-boilerplate/Gruntfile.js",
+		"/Users/RogerYee/MyWork/yee/ShScivanWebsite/menu.php",
+		"/Users/RogerYee/MyWork/yee/ShScivanWebsite/index.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"newChart",
+			"STXDrawingToolbar",
+			"makeMenus",
+			"result(",
+			"toggleCrosshairs",
+			"selectCallback",
+			"getYahooQuotes",
+			"cbfunc",
+			"convertYahoo",
+			"context",
+			"ko",
+			"ko.observable",
+			"applyBinding",
+			"observable",
+			"observa",
+			"activateRoute",
+			"completeNavigation",
+			"viewLocator",
+			"It works",
+			"It wo r k d s",
+			"price",
+			"virtualHost"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/viewmodels/chartiq.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5387,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5379,
+								5379
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/viewmodels/about/about.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 427,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								353,
+								353
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 745,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								727,
+								727
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/views/chartiq.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 662,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								33,
+								47
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "drdStudy.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 268.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
