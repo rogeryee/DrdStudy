@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"last",
+				"lastInputWasValid"
+			],
+			[
 				"get",
 				"getNameFunc2"
 			],
@@ -28,19 +32,12 @@
 	"buffers":
 	[
 		{
-			"file": "app/viewmodels/chartiq.js",
+			"file": "package.json",
 			"settings":
 			{
-				"buffer_size": 5387,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/viewmodels/about/about.js",
-			"settings":
-			{
-				"buffer_size": 427,
-				"line_ending": "Unix"
+				"buffer_size": 209,
+				"line_ending": "Unix",
+				"name": "package.json"
 			}
 		},
 		{
@@ -52,10 +49,26 @@
 			}
 		},
 		{
-			"file": "app/views/chartiq.html",
+			"file": "app/main.min.js",
 			"settings":
 			{
-				"buffer_size": 662,
+				"buffer_size": 8468,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Gruntfile.js",
+			"settings":
+			{
+				"buffer_size": 885,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "build.config.js",
+			"settings":
+			{
+				"buffer_size": 2781,
 				"line_ending": "Unix"
 			}
 		}
@@ -88,20 +101,27 @@
 	"expanded_folders":
 	[
 		"/Users/RogerYee/MyWork/yee/drdStudy",
+		"/Users/RogerYee/MyWork/yee/drdStudy/app",
+		"/Users/RogerYee/MyWork/yee/drdStudy/app/viewmodels/ko",
 		"/Users/RogerYee/MyWork/yee/drdStudy/app/views/about",
-		"/Users/RogerYee/MyWork/yee/drdStudy/lib/chart-iq"
+		"/Users/RogerYee/MyWork/yee/drdStudy/app/views/ko"
 	],
 	"file_history":
 	[
+		"/Users/RogerYee/MyWork/yee/drdStudy/build.config.js",
+		"/Users/RogerYee/MyWork/yee/drdStudy/build.config",
+		"/Users/RogerYee/MyWork/yee/drdStudy/app/viewmodels/ko/observableSample.js",
+		"/Users/RogerYee/MyWork/yee/drdStudy/app/views/ko/observableSample.html",
+		"/Users/RogerYee/MyWork/yee/drdStudy/Gruntfile.js",
+		"/Users/RogerYee/MyWork/yee/drdStudy/index.html",
+		"/Users/RogerYee/MyWork/yee/drdStudy/app/views/chartiq.html",
+		"/Users/RogerYee/MyWork/yee/drdStudy/app/viewmodels/about/about.js",
+		"/Users/RogerYee/MyWork/yee/drdStudy/app/viewmodels/chartiq.js",
 		"/Users/RogerYee/MyWork/yee/drdStudy/lib/chart-iq/stxKernelOs.js",
 		"/Users/RogerYee/Desktop/temp2.txt",
-		"/Users/RogerYee/MyWork/yee/drdStudy/index.html",
 		"/Users/RogerYee/MyWork/yee/drdStudy/app/viewmodels/shell.js",
 		"/Users/RogerYee/MyWork/yee/drdStudy/app/main.js",
 		"/Users/RogerYee/MyWork/yee/drdStudy/app/views/widgetsample.html",
-		"/Users/RogerYee/MyWork/yee/drdStudy/app/viewmodels/ko/observableSample.js",
-		"/Users/RogerYee/MyWork/yee/drdStudy/app/viewmodels/chartiq.js",
-		"/Users/RogerYee/MyWork/yee/drdStudy/app/views/chartiq.html",
 		"/Users/RogerYee/MyWork/yee/drdStudy/app/widgets/expander/viewmodel.js",
 		"/Users/RogerYee/MyWork/yee/drdStudy/app/widgets/firstwidget/viewmodel.js",
 		"/Users/RogerYee/MyWork/yee/drdStudy/app/widgets/expander/view.html",
@@ -115,13 +135,11 @@
 		"/Users/RogerYee/MyWork/yee/drdStudy/app/viewmodels/settings.js",
 		"/Users/RogerYee/MyWork/yee/drdStudy/app/viewmodels/js/jstest.js",
 		"/Users/RogerYee/MyWork/yee/drdStudy/lib/durandal/js/app.js",
-		"/Users/RogerYee/MyWork/yee/drdStudy/app/views/ko/observableSample.html",
 		"/Users/RogerYee/MyWork/yee/drdStudy/lib/durandal/js/system.js",
 		"/Users/RogerYee/MyWork/yee/drdStudy/README.md",
 		"/Users/RogerYee/MyWork/yee/drdStudy/lib/durandal/js/plugins/router.js",
 		"/Users/RogerYee/MyWork/yee/drdStudy/app/viewmodels/rainier.js",
 		"/Users/RogerYee/MyWork/yee/drdStudy/lib/durandal/js/composition.js",
-		"/Users/RogerYee/MyWork/yee/drdStudy/app/viewmodels/about/about.js",
 		"/Users/RogerYee/MyWork/yee/drdStudy/app/views/about/about.html",
 		"/Users/RogerYee/MyWork/yee/drdStudy/lib/durandal/js/viewLocator.js",
 		"/Users/RogerYee/MyWork/yee/drdStudy/app/rainier.js",
@@ -165,6 +183,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"33",
 			"newChart",
 			"STXDrawingToolbar",
 			"makeMenus",
@@ -204,53 +223,83 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "app/viewmodels/chartiq.js",
+					"file": "package.json",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5387,
+						"buffer_size": 209,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5379,
-								5379
+								128,
+								128
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"auto_name": "package.json",
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 2.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 745,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								541,
+								546
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "app/viewmodels/about/about.js",
-					"semi_transient": false,
+					"buffer": 2,
+					"file": "app/main.min.js",
+					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 427,
+						"buffer_size": 8468,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								353,
-								353
+								451,
+								457
 							]
 						],
 						"settings":
@@ -265,25 +314,25 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "index.html",
+					"buffer": 3,
+					"file": "Gruntfile.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 745,
+						"buffer_size": 885,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								727,
-								727
+								609,
+								609
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
@@ -295,31 +344,33 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "app/views/chartiq.html",
+					"buffer": 4,
+					"file": "build.config.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 662,
+						"buffer_size": 2781,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								33,
-								47
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 4,
 					"type": "text"
 				}
 			]
