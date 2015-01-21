@@ -32,44 +32,19 @@
 	"buffers":
 	[
 		{
-			"file": "package.json",
+			"file": "app/index.html",
 			"settings":
 			{
-				"buffer_size": 209,
-				"line_ending": "Unix",
-				"name": "package.json"
-			}
-		},
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 745,
+				"buffer_size": 771,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "app/main.min.js",
+			"file": "app/main.js",
 			"settings":
 			{
-				"buffer_size": 8468,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "Gruntfile.js",
-			"settings":
-			{
-				"buffer_size": 885,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "build.config.js",
-			"settings":
-			{
-				"buffer_size": 2781,
-				"line_ending": "Unix"
+				"buffer_size": 722,
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -100,22 +75,19 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/RogerYee/MyWork/yee/drdStudy",
-		"/Users/RogerYee/MyWork/yee/drdStudy/app",
-		"/Users/RogerYee/MyWork/yee/drdStudy/app/viewmodels/ko",
-		"/Users/RogerYee/MyWork/yee/drdStudy/app/views/about",
-		"/Users/RogerYee/MyWork/yee/drdStudy/app/views/ko"
 	],
 	"file_history":
 	[
+		"/Users/RogerYee/MyWork/yee/drdStudy/app/viewmodels/about/about.js",
+		"/Users/RogerYee/MyWork/yee/drdStudy/index.html",
+		"/Users/RogerYee/MyWork/yee/drdStudy/app/widgets/first-widget/viewmodel.js",
+		"/Users/RogerYee/MyWork/yee/drdStudy/package.json",
+		"/Users/RogerYee/MyWork/yee/drdStudy/Gruntfile.js",
 		"/Users/RogerYee/MyWork/yee/drdStudy/build.config.js",
 		"/Users/RogerYee/MyWork/yee/drdStudy/build.config",
 		"/Users/RogerYee/MyWork/yee/drdStudy/app/viewmodels/ko/observableSample.js",
 		"/Users/RogerYee/MyWork/yee/drdStudy/app/views/ko/observableSample.html",
-		"/Users/RogerYee/MyWork/yee/drdStudy/Gruntfile.js",
-		"/Users/RogerYee/MyWork/yee/drdStudy/index.html",
 		"/Users/RogerYee/MyWork/yee/drdStudy/app/views/chartiq.html",
-		"/Users/RogerYee/MyWork/yee/drdStudy/app/viewmodels/about/about.js",
 		"/Users/RogerYee/MyWork/yee/drdStudy/app/viewmodels/chartiq.js",
 		"/Users/RogerYee/MyWork/yee/drdStudy/lib/chart-iq/stxKernelOs.js",
 		"/Users/RogerYee/Desktop/temp2.txt",
@@ -228,48 +200,19 @@
 			[
 				{
 					"buffer": 0,
-					"file": "package.json",
+					"file": "app/index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 209,
+						"buffer_size": 771,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								128,
-								128
-							]
-						],
-						"settings":
-						{
-							"auto_name": "package.json",
-							"syntax": "Packages/JavaScript/JSON.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 745,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								541,
-								546
+								703,
+								703
 							]
 						],
 						"settings":
@@ -282,74 +225,16 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "app/main.min.js",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 8468,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								451,
-								457
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
 					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "Gruntfile.js",
-					"semi_transient": false,
+					"buffer": 1,
+					"file": "app/main.js",
+					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 885,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								609,
-								609
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "build.config.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2781,
+						"buffer_size": 722,
 						"regions":
 						{
 						},
@@ -363,14 +248,14 @@
 						"settings":
 						{
 							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 2,
+							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -449,7 +334,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 268.0,
+	"side_bar_width": 295.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
