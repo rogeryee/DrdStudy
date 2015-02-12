@@ -1,0 +1,120 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/local/bin/node', '/usr/local/bin/npm', 'install' ]
+2 info using npm@1.4.28
+3 info using node@v0.10.32
+4 warn package.json @ No repository field.
+5 verbose readDependencies using package.json deps
+6 verbose install where, deps [ '/Users/RogerYee/MyWork/yee/drdStudy',
+6 verbose install   [ 'requirejs',
+6 verbose install     'grunt-contrib-requirejs',
+6 verbose install     'grunt-contrib-concat',
+6 verbose install     'grunt-contrib-uglify',
+6 verbose install     'grunt-contrib-less',
+6 verbose install     'grunt-contrib-cssmin',
+6 verbose install     'grunt-contrib-clean',
+6 verbose install     'grunt-contrib-copy' ] ]
+7 info preinstall @
+8 verbose readDependencies using package.json deps
+9 verbose already installed skipping requirejs@~2.1.15 /Users/RogerYee/MyWork/yee/drdStudy
+10 verbose already installed skipping grunt-contrib-requirejs@~0.4.4 /Users/RogerYee/MyWork/yee/drdStudy
+11 verbose already installed skipping grunt-contrib-concat@~0.5.0 /Users/RogerYee/MyWork/yee/drdStudy
+12 verbose already installed skipping grunt-contrib-uglify@~0.2.7 /Users/RogerYee/MyWork/yee/drdStudy
+13 verbose already installed skipping grunt-contrib-less@~1.0.0 /Users/RogerYee/MyWork/yee/drdStudy
+14 verbose already installed skipping grunt-contrib-cssmin@~0.7.0 /Users/RogerYee/MyWork/yee/drdStudy
+15 verbose already installed skipping grunt-contrib-clean@~0.6.0 /Users/RogerYee/MyWork/yee/drdStudy
+16 verbose cache add [ 'grunt-contrib-copy@~10.6.0', null ]
+17 verbose cache add name=undefined spec="grunt-contrib-copy@~10.6.0" args=["grunt-contrib-copy@~10.6.0",null]
+18 verbose parsed url { protocol: null,
+18 verbose parsed url   slashes: null,
+18 verbose parsed url   auth: null,
+18 verbose parsed url   host: null,
+18 verbose parsed url   port: null,
+18 verbose parsed url   hostname: null,
+18 verbose parsed url   hash: null,
+18 verbose parsed url   search: null,
+18 verbose parsed url   query: null,
+18 verbose parsed url   pathname: 'grunt-contrib-copy@~10.6.0',
+18 verbose parsed url   path: 'grunt-contrib-copy@~10.6.0',
+18 verbose parsed url   href: 'grunt-contrib-copy@~10.6.0' }
+19 verbose cache add name="grunt-contrib-copy" spec="~10.6.0" args=["grunt-contrib-copy","~10.6.0"]
+20 verbose parsed url { protocol: null,
+20 verbose parsed url   slashes: null,
+20 verbose parsed url   auth: null,
+20 verbose parsed url   host: null,
+20 verbose parsed url   port: null,
+20 verbose parsed url   hostname: null,
+20 verbose parsed url   hash: null,
+20 verbose parsed url   search: null,
+20 verbose parsed url   query: null,
+20 verbose parsed url   pathname: '~10.6.0',
+20 verbose parsed url   path: '~10.6.0',
+20 verbose parsed url   href: '~10.6.0' }
+21 verbose addNamed [ 'grunt-contrib-copy', '~10.6.0' ]
+22 verbose addNamed [ null, '>=10.6.0-0 <10.7.0-0' ]
+23 silly lockFile 130feb86-grunt-contrib-copy-10-6-0 grunt-contrib-copy@~10.6.0
+24 verbose lock grunt-contrib-copy@~10.6.0 /Users/RogerYee/.npm/130feb86-grunt-contrib-copy-10-6-0.lock
+25 silly addNameRange { name: 'grunt-contrib-copy',
+25 silly addNameRange   range: '>=10.6.0-0 <10.7.0-0',
+25 silly addNameRange   hasData: false }
+26 verbose request where is /grunt-contrib-copy
+27 verbose request registry https://registry.npmjs.org/
+28 verbose request id daf874ea46cddb9d
+29 verbose url raw /grunt-contrib-copy
+30 verbose url resolving [ 'https://registry.npmjs.org/', './grunt-contrib-copy' ]
+31 verbose url resolved https://registry.npmjs.org/grunt-contrib-copy
+32 verbose request where is https://registry.npmjs.org/grunt-contrib-copy
+33 info trying registry request attempt 1 at 16:23:36
+34 verbose etag "6QA95B96YZQTWNCFTCCKQRUG6"
+35 http GET https://registry.npmjs.org/grunt-contrib-copy
+36 http 200 https://registry.npmjs.org/grunt-contrib-copy
+37 silly registry.get cb [ 200,
+37 silly registry.get   { date: 'Thu, 12 Feb 2015 08:23:37 GMT',
+37 silly registry.get     server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+37 silly registry.get     etag: '"32CH70W490F9LCHYQG65L50HB"',
+37 silly registry.get     'content-type': 'application/json',
+37 silly registry.get     'cache-control': 'max-age=60',
+37 silly registry.get     'content-length': '31383',
+37 silly registry.get     'accept-ranges': 'bytes',
+37 silly registry.get     via: '1.1 varnish',
+37 silly registry.get     age: '19',
+37 silly registry.get     'x-served-by': 'cache-hk92-HKG',
+37 silly registry.get     'x-cache': 'HIT',
+37 silly registry.get     'x-cache-hits': '1',
+37 silly registry.get     'x-timer': 'S1423729417.761710,VS0,VE0',
+37 silly registry.get     vary: 'Accept',
+37 silly registry.get     'keep-alive': 'timeout=10, max=50',
+37 silly registry.get     connection: 'Keep-Alive' } ]
+38 silly addNameRange number 2 { name: 'grunt-contrib-copy',
+38 silly addNameRange   range: '>=10.6.0-0 <10.7.0-0',
+38 silly addNameRange   hasData: true }
+39 silly addNameRange versions [ 'grunt-contrib-copy',
+39 silly addNameRange   [ '0.2.0',
+39 silly addNameRange     '0.2.1',
+39 silly addNameRange     '0.2.2',
+39 silly addNameRange     '0.2.3',
+39 silly addNameRange     '0.2.4',
+39 silly addNameRange     '0.3.0',
+39 silly addNameRange     '0.3.1',
+39 silly addNameRange     '0.3.2',
+39 silly addNameRange     '0.4.0',
+39 silly addNameRange     '0.4.1',
+39 silly addNameRange     '0.5.0',
+39 silly addNameRange     '0.6.0',
+39 silly addNameRange     '0.7.0',
+39 silly addNameRange     '0.4.0-rc7' ] ]
+40 silly lockFile 130feb86-grunt-contrib-copy-10-6-0 grunt-contrib-copy@~10.6.0
+41 silly lockFile 130feb86-grunt-contrib-copy-10-6-0 grunt-contrib-copy@~10.6.0
+42 error notarget No compatible version found: grunt-contrib-copy@'>=10.6.0-0 <10.7.0-0'
+42 error notarget Valid install targets:
+42 error notarget ["0.2.0","0.2.1","0.2.2","0.2.3","0.2.4","0.3.0","0.3.1","0.3.2","0.4.0","0.4.1","0.5.0","0.6.0","0.7.0","0.4.0-rc7"]
+42 error notarget
+42 error notarget This is most likely not a problem with npm itself.
+42 error notarget In most cases you or one of your dependencies are requesting
+42 error notarget a package version that doesn't exist.
+43 error System Darwin 14.0.0
+44 error command "/usr/local/bin/node" "/usr/local/bin/npm" "install"
+45 error cwd /Users/RogerYee/MyWork/yee/drdStudy
+46 error node -v v0.10.32
+47 error npm -v 1.4.28
+48 error code ETARGET
+49 verbose exit [ 1, true ]

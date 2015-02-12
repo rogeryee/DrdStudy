@@ -32,19 +32,27 @@
 	"buffers":
 	[
 		{
-			"file": "app/index.html",
+			"file": "src/app/viewmodels/op/opEntry.js",
 			"settings":
 			{
-				"buffer_size": 771,
+				"buffer_size": 204,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/index.html",
+			"settings":
+			{
+				"buffer_size": 658,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "app/main.js",
+			"file": "src/css/op/global.css",
 			"settings":
 			{
-				"buffer_size": 722,
-				"line_ending": "Windows"
+				"buffer_size": 492,
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -75,9 +83,27 @@
 	},
 	"expanded_folders":
 	[
+		"/Users/RogerYee/MyWork/yee/drdStudy",
+		"/Users/RogerYee/MyWork/yee/drdStudy/src",
+		"/Users/RogerYee/MyWork/yee/drdStudy/src/css/op",
+		"/Users/RogerYee/MyWork/yee/drdStudy/src/lib/less"
 	],
 	"file_history":
 	[
+		"/Users/RogerYee/MyWork/yee/drdStudy/src/css/op/pace.css",
+		"/Users/RogerYee/MyWork/yee/drdStudy/src/app/views/op/opEntry.html",
+		"/Users/RogerYee/MyWork/yee/drdStudy/src/css/op/global.less",
+		"/Users/RogerYee/MyWork/yee/drdStudy/src/index.html",
+		"/Users/RogerYee/MyWork/yee/drdStudy/src/app/main.js",
+		"/Users/RogerYee/MyWork/yee/drdStudy/src/css/op/global.css",
+		"/Users/RogerYee/MyWork/yee/drdStudy/src/lib/pace/pace.js",
+		"/Users/RogerYee/MyWork/yee/drdStudy/src/app/viewmodels/shell.js",
+		"/Users/RogerYee/MyWork/yee/drdStudy/src/css/op/theme/light.less",
+		"/Users/RogerYee/MyWork/yee/drdStudy/src/css/op/test.less",
+		"/Users/RogerYee/MyWork/yee/drdStudy/src/css/op/mixins.less",
+		"/Users/RogerYee/MyWork/yee/drdStudy/src/lib/less/less.min.js",
+		"/Users/RogerYee/MyWork/yee/drdStudy/src/css/op/lesshat-prefixed.less",
+		"/Users/RogerYee/MyWork/yee/drdStudy/app/index.html",
 		"/Users/RogerYee/MyWork/yee/drdStudy/app/viewmodels/about/about.js",
 		"/Users/RogerYee/MyWork/yee/drdStudy/index.html",
 		"/Users/RogerYee/MyWork/yee/drdStudy/app/widgets/first-widget/viewmodel.js",
@@ -200,19 +226,47 @@
 			[
 				{
 					"buffer": 0,
-					"file": "app/index.html",
+					"file": "src/app/viewmodels/op/opEntry.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 771,
+						"buffer_size": 204,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								703,
-								703
+								66,
+								66
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 658,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								431,
+								431
 							]
 						],
 						"settings":
@@ -225,16 +279,16 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "app/main.js",
-					"semi_transient": true,
+					"buffer": 2,
+					"file": "src/css/op/global.css",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 722,
+						"buffer_size": 492,
 						"regions":
 						{
 						},
@@ -247,15 +301,15 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 4,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]

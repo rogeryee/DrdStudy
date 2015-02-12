@@ -5,15 +5,14 @@
     'plugins' : '../lib/durandal/js/plugins',
     'transitions' : '../lib/durandal/js/transitions',
     'knockout': '../lib/knockout/knockout-3.1.0',
-    'jquery': '../lib/jquery/jquery-1.9.1',
-    'app' : 'viewmodels'
+    'jquery': '../lib/jquery/jquery-1.9.1'
     } 
 });
  
 define(['durandal/system', 'durandal/app', 'durandal/viewLocator'],  
     function (system, app, viewLocator) {
 
-    system.debug(false);
+    system.debug(true);
 
     app.title = "Durandal Study";
 
