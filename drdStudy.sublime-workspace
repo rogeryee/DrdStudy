@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"build",
+				"build"
+			],
+			[
+				"mo",
+				"modules"
+			],
+			[
 				"last",
 				"lastInputWasValid"
 			],
@@ -32,27 +40,28 @@
 	"buffers":
 	[
 		{
-			"file": "src/app/viewmodels/op/opEntry.js",
+			"file": "src/app/viewmodels/ko/observableSample.js",
 			"settings":
 			{
-				"buffer_size": 204,
+				"buffer_size": 1574,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "src/index.html",
+			"file": "src/app/views/ko/observableSample.html",
 			"settings":
 			{
-				"buffer_size": 658,
-				"line_ending": "Windows"
+				"buffer_size": 480,
+				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "src/css/op/global.css",
+			"file": "src/app/viewmodels/ko/test.json",
 			"settings":
 			{
-				"buffer_size": 492,
-				"line_ending": "Unix"
+				"buffer_size": 19,
+				"line_ending": "Unix",
+				"name": "{'name':'Roger'}"
 			}
 		}
 	],
@@ -85,17 +94,25 @@
 	[
 		"/Users/RogerYee/MyWork/yee/drdStudy",
 		"/Users/RogerYee/MyWork/yee/drdStudy/src",
-		"/Users/RogerYee/MyWork/yee/drdStudy/src/css/op",
-		"/Users/RogerYee/MyWork/yee/drdStudy/src/lib/less"
+		"/Users/RogerYee/MyWork/yee/drdStudy/src/app",
+		"/Users/RogerYee/MyWork/yee/drdStudy/src/app/viewmodels",
+		"/Users/RogerYee/MyWork/yee/drdStudy/src/app/viewmodels/ko",
+		"/Users/RogerYee/MyWork/yee/drdStudy/src/app/viewmodels/op",
+		"/Users/RogerYee/MyWork/yee/drdStudy/src/app/views",
+		"/Users/RogerYee/MyWork/yee/drdStudy/src/app/views/ko",
+		"/Users/RogerYee/MyWork/yee/drdStudy/src/css/op"
 	],
 	"file_history":
 	[
-		"/Users/RogerYee/MyWork/yee/drdStudy/src/css/op/pace.css",
-		"/Users/RogerYee/MyWork/yee/drdStudy/src/app/views/op/opEntry.html",
-		"/Users/RogerYee/MyWork/yee/drdStudy/src/css/op/global.less",
+		"/Users/RogerYee/MyWork/yee/drdStudy/Gruntfile.js",
+		"/Users/RogerYee/MyWork/yee/drdStudy/package.json",
+		"/Users/RogerYee/MyWork/yee/drdStudy/src/app/viewmodels/op/opEntry.js",
 		"/Users/RogerYee/MyWork/yee/drdStudy/src/index.html",
 		"/Users/RogerYee/MyWork/yee/drdStudy/src/app/main.js",
 		"/Users/RogerYee/MyWork/yee/drdStudy/src/css/op/global.css",
+		"/Users/RogerYee/MyWork/yee/drdStudy/src/css/op/pace.css",
+		"/Users/RogerYee/MyWork/yee/drdStudy/src/app/views/op/opEntry.html",
+		"/Users/RogerYee/MyWork/yee/drdStudy/src/css/op/global.less",
 		"/Users/RogerYee/MyWork/yee/drdStudy/src/lib/pace/pace.js",
 		"/Users/RogerYee/MyWork/yee/drdStudy/src/app/viewmodels/shell.js",
 		"/Users/RogerYee/MyWork/yee/drdStudy/src/css/op/theme/light.less",
@@ -107,8 +124,6 @@
 		"/Users/RogerYee/MyWork/yee/drdStudy/app/viewmodels/about/about.js",
 		"/Users/RogerYee/MyWork/yee/drdStudy/index.html",
 		"/Users/RogerYee/MyWork/yee/drdStudy/app/widgets/first-widget/viewmodel.js",
-		"/Users/RogerYee/MyWork/yee/drdStudy/package.json",
-		"/Users/RogerYee/MyWork/yee/drdStudy/Gruntfile.js",
 		"/Users/RogerYee/MyWork/yee/drdStudy/build.config.js",
 		"/Users/RogerYee/MyWork/yee/drdStudy/build.config",
 		"/Users/RogerYee/MyWork/yee/drdStudy/app/viewmodels/ko/observableSample.js",
@@ -174,6 +189,9 @@
 		"height": 93.0,
 		"where_history":
 		[
+			"/Users/RogerYee/MyWork/yee/drdStudy",
+			"/Users/RogerYee/MyWork/yee/drdStudy/src/app",
+			"/Users/RogerYee/MyWork/yee/drdStudy/src"
 		]
 	},
 	"find_state":
@@ -181,6 +199,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"pace",
 			"33",
 			"newChart",
 			"STXDrawingToolbar",
@@ -221,95 +240,93 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "src/app/viewmodels/op/opEntry.js",
+					"file": "src/app/viewmodels/ko/observableSample.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 204,
+						"buffer_size": 1574,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								66,
-								66
+								1121,
+								1121
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "src/index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 658,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								431,
-								431
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 322.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "src/css/op/global.css",
+					"buffer": 1,
+					"file": "src/app/views/ko/observableSample.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 492,
+						"buffer_size": 480,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								18,
+								18
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/app/viewmodels/ko/test.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 19,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18,
+								18
+							]
+						],
+						"settings":
+						{
+							"auto_name": "{'name':'Roger'}",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -388,7 +405,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 295.0,
+	"side_bar_width": 239.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
